@@ -1,4 +1,4 @@
-# git_github_notes
+# Git_github_notes
 
 What is Git??
 GIT is a version control system. * saves history of changes *revert to prior versions * merge work from multiple collaborators
